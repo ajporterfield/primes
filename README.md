@@ -11,7 +11,7 @@ primes.List(10, 100) // [101 103 107 109 113 127 131 137 139 149]
 // Returns prime numbers between 0 and X
 primes.UpTo(10) // [2 3 5 7]
 
-// Returns prime numbers between two number
+// Returns prime numbers between two numbers
 primes.Between(10, 20) // [11 13 17 19]
 
 // Returns the next prime number starting at an offset
